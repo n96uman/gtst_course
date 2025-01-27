@@ -4,7 +4,7 @@
 3. efficient text manipulation.
 syntax : sed [option] 'command' file.
 1. substitution
-- ==sad s/oldword/newword/==
+- ==sed s/oldword/newword/==
 if there is more than one oldword you want to change.
 - ==sed 's/oldword/newword/g'==
 2. delete
