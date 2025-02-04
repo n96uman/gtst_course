@@ -10,6 +10,7 @@
     - sequence data:
         - list: an order collection.
             syntax 'li=["hwo","jduej"];'
+            - methods: append , clear , copy , remove , count , extend , index , pop
             - to add a value : li.append("value");
            - tuple: can't be modify .
 		    syntax: tup=('akf','sljf')';
