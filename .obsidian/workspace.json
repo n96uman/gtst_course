@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "day11_probash"
             }
+          },
+          {
+            "id": "a7e3a4e7979aa721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAY2_(linux intro).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAY2_(linux intro)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,27 +192,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f87b6e90106e843",
+  "active": "a7e3a4e7979aa721",
   "lastOpenFiles": [
-    "day10_bash2.md",
+    "Day1_introduction.md.md",
+    "Day7.md",
+    "Day7_python.md",
+    "day8_part2.md",
+    "day5_linuxrun.md.md",
+    "Day6.md",
+    "Day6_part 2.md",
+    "Day8_python.md.md",
+    "day9_Furtherpy.md.md",
+    "Day9_furtherpython.md.md",
+    "Day11_probash2.md",
     "day11_probash.md",
     "day10_bash.md",
-    "day5_linuxrun.md.md",
-    "day9_Furtherpy.md.md",
-    "Day1_introduction.md.md",
-    "Day9_furtherpython.md.md",
-    "day8_part2.md",
-    "Day 6part 2.md",
-    "Day 6.md",
-    "Day 3(linux).md",
-    "Day8_python.md.md",
-    "Day_7python.md",
-    "Day_7.md",
-    "day 5(part 3).md",
-    "DAY 5(NANO).md",
-    "Day 4_morelinux.md.md",
-    "DAY 2(linux intro).md",
-    "Day 3(Linux command ).md",
+    "day10_bash2.md",
+    "day5_(part 3).md",
+    "DAY5_(NANO).md",
+    "Day4_morelinux.md.md",
+    "Day3_(linux).md",
+    "Day3_(Linux command ).md",
+    "DAY2_(linux intro).md",
     "README.md",
     "Untitled 1.md",
     "Untitled"

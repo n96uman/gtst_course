@@ -2,7 +2,7 @@ operators : Arithmetic operator , assignment operator.
 1. ==Bitwise operators:== every number have a bit value in python you find the bit by (bin). 
     - bitwise operator used to do math (logical operation) on the  binary value .
     - to find the decimal number of a binary we can do : print(int('111',2));
-    - compliment (Not)(~):- it will add one and multiple by one .
+    - compliment (Not)(~):- it will add one and multiple by negetive one .
     - And (&):
     - or(|);
     - xor(^);similar=0 and different=1;

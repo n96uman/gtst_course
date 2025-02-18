@@ -4,8 +4,8 @@
 4. ==to change users on terminal==:su -username.
 5. ==add user add users to home==:sudo mkhomedir_helper your username.
 6. ==change the shell type==:sudo usermod your username -s /bin/shell.
-7. ==create new grouop==:sudo groupadd groupname.
-8. ==adduser to the group==:sudo usermod -aG <'groupname'><'username'>.
+7. ==create new group==:sudo groupadd groupname.
+8. ==adduser to the group==:sudo usermod -aG <'groupname'> <'username'>.
 9. ==verify the membership ==:group <'username'>.
 10. ==remove user from group==: group <username'>.
 11. ==sudoers file==:a file to give permission to users to use 'sudo'.commands= sudo visudo
