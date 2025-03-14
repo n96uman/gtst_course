@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Day21_pythoncryptography"
             }
+          },
+          {
+            "id": "b2d84d720af72e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day22_networksecurity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day22_networksecurity"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,9 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b171b2276d037f70",
+  "active": "b2d84d720af72e7e",
   "lastOpenFiles": [
+    "Day17_malware(part2).md",
     "Day20_cryptography.md",
+    "Day22_networksecurity.md",
     "Day21_pythoncryptography.md",
     "day19_Cryptography.md",
     "day10_bash.md",
@@ -196,7 +212,6 @@
     "Day18_socailEngineering.md",
     "day1_project.md",
     "Day16_malwarethreats.md",
-    "Day17_malware(part2).md",
     "Pasted image 20250303095507.png",
     "Pasted image 20250303095044.png",
     "Pasted image 20250303094925.png",
@@ -208,7 +223,6 @@
     "Day7_python.md",
     "day8_part2.md",
     "Day6.md",
-    "Day8_python.md.md",
     "Untitled"
   ]
 }
