@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2ad5436fcd26132",
+            "id": "177514bd55ccd5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day20_cryptography.md",
+                "file": "Day23_networksecurity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day20_cryptography"
-            }
-          },
-          {
-            "id": "b171b2276d037f70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day21_pythoncryptography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day21_pythoncryptography"
-            }
-          },
-          {
-            "id": "b2d84d720af72e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day22_networksecurity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day22_networksecurity"
+              "title": "Day23_networksecurity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,22 +163,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2d84d720af72e7e",
+  "active": "177514bd55ccd5b1",
   "lastOpenFiles": [
-    "Day17_malware(part2).md",
-    "Day20_cryptography.md",
     "Day22_networksecurity.md",
+    "Day23_networksecurity.md",
     "Day21_pythoncryptography.md",
-    "day19_Cryptography.md",
-    "day10_bash.md",
+    "Day6.md",
     "day5_linuxrun.md.md",
+    "Day6_part 2.md",
+    "Day7.md",
+    "day5_(part 3).md",
     "DAY5_(NANO).md",
     "Day4_morelinux.md.md",
     "Day3_(linux).md",
     "Day3_(Linux command ).md",
     "DAY2_(linux intro).md",
-    "day5_(part 3).md",
-    "Day6_part 2.md",
+    "Day17_malware(part2).md",
+    "Day20_cryptography.md",
+    "day19_Cryptography.md",
+    "day10_bash.md",
     "Day1_introduction.md.md",
     "Day18_socailEngineering.md",
     "day1_project.md",
@@ -219,10 +193,7 @@
     "DAy14_scanning.md",
     "Day13_.md",
     "Day12_penetration_Testing.md",
-    "Day7.md",
     "Day7_python.md",
-    "day8_part2.md",
-    "Day6.md",
     "Untitled"
   ]
 }
