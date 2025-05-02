@@ -1,70 +1,126 @@
 {
   "main": {
-    "id": "89521ff89dfaed8c",
+    "id": "f6fe903433e870c5",
     "type": "split",
     "children": [
       {
-        "id": "71c4d79294d01a26",
+        "id": "e438dccc0a192613",
         "type": "tabs",
         "children": [
           {
-            "id": "177514bd55ccd5b1",
+            "id": "99e0682fe31baa83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day23_networksecurity.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day23_networksecurity"
+              "title": "Welcome"
             }
           },
           {
-            "id": "6a52f605097f1134",
+            "id": "fc595a7027f42a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day23_networksecurity.md",
+                "file": "WireLess Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day23_networksecurity"
+              "title": "WireLess Network"
             }
           },
           {
-            "id": "03ed9e257c0a3886",
+            "id": "fb2f51770cf180cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day15_Scanning part 2.md",
+                "file": "Mobile security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day15_Scanning part 2"
+              "title": "Mobile security"
+            }
+          },
+          {
+            "id": "18c11c5e749bb7cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF(capture The flag).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTF(capture The flag)"
+            }
+          },
+          {
+            "id": "fa08055e9216cc89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF(capture The flag).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTF(capture The flag)"
+            }
+          },
+          {
+            "id": "cdbe11fd69a71fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Bounty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bug Bounty"
+            }
+          },
+          {
+            "id": "2879998f2e57846c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WireLess Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WireLess Network"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cf2fbd88c2e2f6f3",
+    "id": "89d29b86c4fb0d47",
     "type": "split",
     "children": [
       {
-        "id": "7555e6bda2642822",
+        "id": "3d8ca1729134c084",
         "type": "tabs",
         "children": [
           {
-            "id": "9e7469768d810d36",
+            "id": "b1ab0ad5458ad2e3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +133,7 @@
             }
           },
           {
-            "id": "9bd7c7b22863d674",
+            "id": "ee1e636a30175114",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +150,7 @@
             }
           },
           {
-            "id": "6bf9adcd69c33f39",
+            "id": "6592943fda2408cd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,69 +166,74 @@
     "width": 200
   },
   "right": {
-    "id": "0b10a39f58ee7fc7",
+    "id": "217a0b7f61df7497",
     "type": "split",
     "children": [
       {
-        "id": "59c0846ca518777b",
+        "id": "ff293bec49702f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "46aef93c2a9a4fe1",
+            "id": "96912410b9cb6a7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day16_malwarethreats.md",
+                "file": "WireLess Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day16_malwarethreats"
+              "title": "Backlinks for WireLess Network"
             }
           },
           {
-            "id": "4857a375f73ef74d",
+            "id": "62490fd0af1fa718",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day1_introduction.md.md",
+                "file": "WireLess Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day1_introduction.md"
+              "title": "Outgoing links from WireLess Network"
             }
           },
           {
-            "id": "68eb6d6d4f38c342",
+            "id": "c3f108bd10b1aadb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "6fd3eb1c4124f6d7",
+            "id": "8012a21dd7567216",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day1_introduction.md.md"
+                "file": "WireLess Network.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day1_introduction.md"
+              "title": "Outline of WireLess Network"
             }
           }
         ]
@@ -192,37 +253,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03ed9e257c0a3886",
+  "active": "2879998f2e57846c",
   "lastOpenFiles": [
-    "Day23_networksecurity.md",
-    "Day24_SystemHacking.md",
-    "Day15_Scanning part 2.md",
+    "Report Writing and Documentation.md",
+    "gtst_course/day9_Furtherpy.md.md",
+    "gtst_course/day8_part2.md",
+    "gtst_course/day5_linuxrun.md.md",
+    "gtst_course/day5_(part 3).md",
+    "gtst_course/day1_project.md",
+    "gtst_course",
+    "Bug Bounty.md",
+    "CTF(capture The flag).md",
     "Untitled.md",
-    "Day3_(Linux command ).md",
-    "DAY2_(linux intro).md",
-    "Day1_introduction.md.md",
-    "Day22_networksecurity.md",
-    "Day21_pythoncryptography.md",
-    "Day6.md",
-    "day5_linuxrun.md.md",
-    "Day6_part 2.md",
-    "Day7.md",
-    "day5_(part 3).md",
-    "DAY5_(NANO).md",
-    "Day4_morelinux.md.md",
-    "Day3_(linux).md",
-    "Day17_malware(part2).md",
-    "Day20_cryptography.md",
-    "day19_Cryptography.md",
-    "day10_bash.md",
-    "Day18_socailEngineering.md",
-    "day1_project.md",
-    "Day16_malwarethreats.md",
-    "Pasted image 20250303095507.png",
-    "Pasted image 20250303095044.png",
-    "Pasted image 20250303094925.png",
-    "DAy14_scanning.md",
-    "Day13_.md",
-    "Untitled"
+    "Pasted image 20250419094959.png",
+    "Mobile security.md",
+    "Pasted image 20250418193516.png",
+    "WireLess Network.md",
+    "Pasted image 20250418151626.png",
+    "Pasted image 20250418140226.png",
+    "Welcome.md"
   ]
 }
