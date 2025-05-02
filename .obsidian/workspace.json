@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WireLess Network.md",
+                "file": "Day3_(linux).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WireLess Network"
+              "title": "Day3_(linux)"
             }
           }
         ],
@@ -255,6 +255,12 @@
   },
   "active": "2879998f2e57846c",
   "lastOpenFiles": [
+    "Day3_(Linux command ).md",
+    "DAY2_(linux intro).md",
+    "day1_project.md",
+    "Day1_introduction.md.md",
+    "Day30_CTF(capture The flag).md",
+    "WireLess Network.md",
     "Report Writing and Documentation.md",
     "gtst_course/day9_Furtherpy.md.md",
     "gtst_course/day8_part2.md",
@@ -263,12 +269,10 @@
     "gtst_course/day1_project.md",
     "gtst_course",
     "Bug Bounty.md",
-    "CTF(capture The flag).md",
     "Untitled.md",
     "Pasted image 20250419094959.png",
     "Mobile security.md",
     "Pasted image 20250418193516.png",
-    "WireLess Network.md",
     "Pasted image 20250418151626.png",
     "Pasted image 20250418140226.png",
     "Welcome.md"

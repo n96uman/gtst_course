@@ -39,7 +39,7 @@ there are more than 1000 commands and every one of them have option and argument
     - cd ..=> 1X back
     - cd => to home directory
     - cd ../.. => 2x back
-    if my folder is have spaced add "".cd "folder name";
+    if my folder is have spaced add "". cd "folder name";
 16. PWD:(print working directory) .pwd [option].
 17. echo: echo [string].
 18. out put redirecting :'>' echo text>file.txt write the out put to the file.txt.
