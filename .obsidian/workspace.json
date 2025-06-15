@@ -8,133 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99e0682fe31baa83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "fc595a7027f42a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WireLess Network.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WireLess Network"
-            }
-          },
-          {
-            "id": "fb2f51770cf180cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mobile security"
-            }
-          },
-          {
-            "id": "18c11c5e749bb7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF(capture The flag).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CTF(capture The flag)"
-            }
-          },
-          {
-            "id": "fa08055e9216cc89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF(capture The flag).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CTF(capture The flag)"
-            }
-          },
-          {
-            "id": "cdbe11fd69a71fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bug Bounty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bug Bounty"
-            }
-          },
-          {
-            "id": "2879998f2e57846c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3_(linux).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day3_(linux)"
-            }
-          },
-          {
-            "id": "1476da4b989d7e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day23_networksecurity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day23_networksecurity"
-            }
-          },
-          {
             "id": "1aa486f3b36506ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bettercap.md",
+                "file": "Day24_SystemHacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bettercap"
+              "title": "Day24_SystemHacking"
+            }
+          },
+          {
+            "id": "3ce824345a295f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day24_SystemHacking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day24_SystemHacking"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,34 +183,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aa486f3b36506ee",
+  "active": "b1ab0ad5458ad2e3",
   "lastOpenFiles": [
-    "Day6_part 2.md",
-    "Day6.md",
-    "day5_linuxrun.md.md",
-    "day5_(part 3).md",
-    "DAY5_(NANO).md",
-    "Day4_morelinux.md.md",
-    "Day3_(Linux command ).md",
-    "Day3_(linux).md",
-    "Bettercap.md",
+    "Day17_malware(part2).md",
+    "Day21_pythoncryptography.md",
+    "Day20_cryptography.md",
+    "Day11_probash2.md",
+    "Day25_systemhacking.md",
+    "Day24_SystemHacking.md",
     "Day23_networksecurity.md",
     "Day22_networksecurity.md",
-    "Day21_pythoncryptography.md",
     "day19_Cryptography.md",
-    "Day18_socailEngineering.md",
-    "Day17_malware(part2).md",
     "Day16_malwarethreats.md",
+    "Day12_penetration_Testing.md",
     "Day15_Scanning part 2.md",
     "DAy14_scanning.md",
     "Day13_.md",
-    "day10_bash.md",
-    "Day11_probash2.md",
-    "Day12_penetration_Testing.md",
-    "day9_Furtherpy.md.md",
-    "day8_part2.md",
-    "Day8_python.md.md",
-    "Day7_python.md",
+    "day5_(part 3).md",
+    "DAY5_(NANO).md",
+    "Day4_morelinux.md.md",
+    "Day3_(linux).md",
+    "Day3_(Linux command ).md",
+    "day5_linuxrun.md.md",
+    "Day6_part 2.md",
+    "Mobile security.md",
+    "Day30_CTF(capture The flag).md",
+    "Bettercap.md",
+    "Bug Bounty.md",
+    "Day6.md",
     "gtst_course",
     "Pasted image 20250419094959.png",
     "Pasted image 20250418193516.png",

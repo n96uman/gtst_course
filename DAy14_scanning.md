@@ -6,7 +6,7 @@
         - ttl: 108
     - linux 
         - ttl:64
-2. when we use peening in nmap : nmap -sn IP (no port scan)
+2. when we use ping in nmap : nmap -sn IP (no port scan)
 3. how do we identify all host on a network? - -
 - nmap -sn  netwokaddresss - 255
 - namp -sn netwoladdress/netwolbits(subnet mask) this will not work on virtual machines network.
