@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1aa486f3b36506ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day24_SystemHacking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day24_SystemHacking"
-            }
-          },
-          {
-            "id": "3ce824345a295f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day30_CTF(capture The flag).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day30_CTF(capture The flag)"
-            }
-          },
-          {
-            "id": "67c5276b602b07a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day26_webhacking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day26_webhacking"
-            }
-          },
-          {
             "id": "c9cec7ffaf4de504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WireLess Network.md",
+                "file": "Burp suite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WireLess Network"
+              "title": "Burp suite"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,6 +170,8 @@
   },
   "active": "c9cec7ffaf4de504",
   "lastOpenFiles": [
+    "Bug Bounty.md",
+    "WireLess Network.md",
     "Day25_systemhacking.md",
     "Welcome.md",
     "Untitled.md",
@@ -239,8 +198,6 @@
     "Day4_morelinux.md.md",
     "Day3_(linux).md",
     "Day3_(Linux command ).md",
-    "day5_linuxrun.md.md",
-    "Day6_part 2.md",
     "gtst_course",
     "Pasted image 20250419094959.png",
     "Pasted image 20250418193516.png",
