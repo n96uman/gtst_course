@@ -1,0 +1,2 @@
+- it just simply using fake profile or hiding yourself.
+- incognito: is just no history.
