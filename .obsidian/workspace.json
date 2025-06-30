@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_SQL_injection.md",
+                "file": "Day8_python.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Z_SQL_injection"
+              "title": "Day8_python.md"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "217a0b7f61df7497",
@@ -171,11 +170,14 @@
   },
   "active": "c1d9c525668dd18f",
   "lastOpenFiles": [
+    "day8_part2.md",
+    "Day7_python.md",
+    "Day4_morelinux.md.md",
+    "Z_SQL_injection.md",
     "Day27_Anonymity.md",
     "Day26_webhacking.md",
     "Day29_report.md",
     "Burp suite.md",
-    "Z_SQL_injection.md",
     "Day25_systemhacking.md",
     "Day24_SystemHacking.md",
     "Report Writing and Documentation.md",
@@ -196,14 +198,11 @@
     "WireLess Network.md",
     "Pasted image 20250622131852.png",
     "Pasted image 20250622131521.png",
-    "Day28_Wireless2.md",
     "Pasted image 20250622104554.png",
-    "day5_linuxrun.md.md",
     "Pasted image 20250619122751.png",
     "Pasted image 20250619120858.png",
     "Pasted image 20250619120209.png",
     "Pasted image 20250619115958.png",
-    "Bug Bounty.md",
     "Pasted image 20250615193516.png",
     "Pasted image 20250615193436.png",
     "gtst_course",

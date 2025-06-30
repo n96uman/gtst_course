@@ -15,3 +15,19 @@
     - Enable database logging
     - Map the application
 ## Exploit of sql  injection
+## Union-Based sqli
+- there are two rules
+1. the number and the order of the columns must be the same in all queries.
+2. the data type must be compatible.
+## Exploiting
+-  determine the columns using "order by ":
+- Determining the number of columns required in an sql injection Union attack using "NULL values".
+## How to prevent sqli vulnerabilities
+1. primary defenses:
+    - use of prepared statements(parametrized queries)
+    - use of stored procedures (partial)
+    - whitelist input validation (partial)
+    - escaping All user supplied input (partial)
+2. Additional Defenses:
+    - Also : enforcing least privilege
+    - Also : performing whitelist input validation as a secondary defense.
