@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day8_python.md.md",
+                "file": "Z_SQL_injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day8_python.md"
+              "title": "Z_SQL_injection"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "c1d9c525668dd18f",
   "lastOpenFiles": [
+    "Day8_python.md.md",
     "day8_part2.md",
     "Day7_python.md",
     "Day4_morelinux.md.md",
@@ -195,7 +196,6 @@
     "Day13_.md",
     "Day12_penetration_Testing.md",
     "Day28_wireless1.md",
-    "WireLess Network.md",
     "Pasted image 20250622131852.png",
     "Pasted image 20250622131521.png",
     "Pasted image 20250622104554.png",

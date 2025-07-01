@@ -31,3 +31,29 @@
 2. Additional Defenses:
     - Also : enforcing least privilege
     - Also : performing whitelist input validation as a secondary defense.
+- SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. This can allow an attacker to view data that they are not normally able to retrieve
+## sql command
+- to know the database version "select all from v$version".
+- to list of table "Select * from information_schema.tables"
+- for comment: "--" 
+### Demo of sql injection
+1. http request:https://insecure-website.com/products?category=Gifts'+OR+1=1--
+2. change to sql: SELECT * FROM products WHERE category = 'Gifts' OR 1=1--' AND released = 1
+## Detect sql injection
+
+You can detect SQL injection manually using a systematic set of tests against every entry point in the application. To do this, you would typically submit:
+
+- The single quote character `'` and look for errors or other anomalies.
+- Some SQL-specific syntax that evaluates to the base (original) value of the entry point, and to a different value, and look for systematic differences in the application responses.
+- Boolean conditions such as `OR 1=1` and `OR 1=2`, and look for differences in the application's responses.
+- Payloads designed to trigger time delays when executed within a SQL query, and look for differences in the time taken to respond.
+- OAST payloads designed to trigger an out-of-band network interaction when executed within a SQL query, and monitor any resulting interactions.
+## sql injection example
+1. Retrieving hidden data
+2. subverting application logic
+3. union attacks 
+4. blind sql injection :Many instances of SQL injection are blind vulnerabilities. This means that the application does not return the results of the SQL query or the details of any database errors within its responses.
+5. First-order sql injection: when the http request is directly change in to sql query.
+6. Second-order injection: it is when http request is store for the future use.
+- After you identify a SQL injection vulnerability, it's often useful to obtain information about the database.
+
