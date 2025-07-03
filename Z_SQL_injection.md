@@ -57,3 +57,25 @@ You can detect SQL injection manually using a systematic set of tests against ev
 6. Second-order injection: it is when http request is store for the future use.
 - After you identify a SQL injection vulnerability, it's often useful to obtain information about the database.
 
+# ## String concatenation
+
+You can concatenate together multiple strings to make a single string.
+
+|   |   |
+|---|---|
+|Oracle|`'foo'\|'bar'`|
+|Microsoft|`'foo'+'bar'`|
+|PostgreSQL|`'foo'\|'bar'`|
+|MySQL|`'foo' 'bar'` [Note the space between the two strings]  <br>`CONCAT('foo','bar')`|
+
+## ## Database version
+
+You can query the database to determine its type and version. This information is useful when formulating more complicated attacks.
+
+|   |   |
+|---|---|
+|Oracle|`SELECT banner FROM v$version   SELECT version FROM v$instance   `|
+|Microsoft|`SELECT @@version`|
+|PostgreSQL|`SELECT version()`|
+|MySQL|`SELECT @@version`|
+
