@@ -261,23 +261,13 @@ For more advanced users, the solution described here could be made more elegant 
 21. In the browser, click "My account" to open the login page. Use the password to log in as the `administrator` user.
 
 
-1.n
-2.
-3.
-4.
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18 c
-19
-20
+## Time delays
+
+You can cause a time delay in the database when the query is processed. The following will cause an unconditional time delay of 10 seconds.
+
+|   |   |
+|---|---|
+|Oracle|`dbms_pipe.receive_message(('a'),10)`|
+|Microsoft|`WAITFOR DELAY '0:0:10'`|
+|PostgreSQL|`SELECT pg_sleep(10)`|
+|MySQL|`SELECT SLEEP(10)`|
