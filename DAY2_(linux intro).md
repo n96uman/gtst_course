@@ -1,6 +1,6 @@
 Linux
 
-> 1. ==**introduction**:== Linux is kernel(a layer between software and hardware).
+1. ==**introduction**:== Linux is kernel(a layer between software and hardware).
   to download a pic in linux use wget linkofthepic
 2. ==history:== Unix OS WAS CREATED in 1969 by ken Thompson and Dennis Rithcie; cheap and was not open.
 3. ==linux== was create by Linus Torvard and was not cheap and was open.

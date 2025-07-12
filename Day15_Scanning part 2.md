@@ -19,7 +19,7 @@
 - nmap is is capable of running some script on port and service.
 - ==--script vuln== test if the port is vulnerable.
 ### nmap output 
-- nmap can save out put usin g.
+- nmap can save out put using.
 - -oG ->for Greppable format .
 - -oX -> for xml format .
 - -oN -> for normal saving formats.

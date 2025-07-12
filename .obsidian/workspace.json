@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_SQL_injection.md",
+                "file": "Day27_Anonymity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Z_SQL_injection"
+              "title": "Day27_Anonymity"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "217a0b7f61df7497",
@@ -171,32 +170,32 @@
   },
   "active": "c1d9c525668dd18f",
   "lastOpenFiles": [
-    "Day26_webhacking.md",
-    "Z_SQL_injection.md",
-    "Day8_python.md.md",
-    "day8_part2.md",
-    "Day7_python.md",
-    "Day4_morelinux.md.md",
-    "Day27_Anonymity.md",
-    "Day29_report.md",
-    "Burp suite.md",
-    "Day25_systemhacking.md",
-    "Day24_SystemHacking.md",
+    "Day20_cryptography.md",
+    "Day23_networksecurity.md",
+    "Day28_wireless1.md",
     "Report Writing and Documentation.md",
     "Day30_CTF(capture The flag).md",
-    "Day23_networksecurity.md",
-    "Day22_networksecurity.md",
-    "Day21_pythoncryptography.md",
-    "Day20_cryptography.md",
     "day19_Cryptography.md",
     "Day18_socailEngineering.md",
     "Day17_malware(part2).md",
-    "Day16_malwarethreats.md",
-    "Day15_Scanning part 2.md",
-    "DAy14_scanning.md",
-    "Day13_.md",
-    "Day12_penetration_Testing.md",
-    "Day28_wireless1.md",
+    "Day11_probash2.md",
+    "day11_probash.md",
+    "day10_bash2.md",
+    "day10_bash.md",
+    "Day9_furtherpython.md.md",
+    "day9_Furtherpy.md.md",
+    "Day8_python.md.md",
+    "day8_part2.md",
+    "Day7_python.md",
+    "Day7.md",
+    "Day6_part 2.md",
+    "day5_(part 3).md",
+    "day5_linuxrun.md.md",
+    "DAY5_(NANO).md",
+    "Day4_morelinux.md.md",
+    "Day3_(linux).md",
+    "Day3_(Linux command ).md",
+    "DAY2_(linux intro).md",
     "Pasted image 20250622131852.png",
     "Pasted image 20250622131521.png",
     "Pasted image 20250622104554.png",
