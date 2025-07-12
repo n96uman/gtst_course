@@ -22,3 +22,15 @@
 2. strict chain: if on of the proxy chain is not working it will stop working.
 3. Round Robin chain:  it is like dynamic chain but if all are not working will again.
 4. Random chain: the chain is random.
+## TOR /the onion Routing /
+- developed in military to gather information in anonymity.
+- initial the name is "onion Routing".
+- use RSA/Encryption/.
+- It is slow.
+- more than 7000 nodes they are volunteer.
+- default 9050.
+### 3 type of Node
+1. entry node: the first relay
+2. middle Relay: multiple intermediate relay
+3. Exit Node: the last relay.
+- ==torghost==: git clone it from the github.
