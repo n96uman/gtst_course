@@ -34,3 +34,29 @@
 2. middle Relay: multiple intermediate relay
 3. Exit Node: the last relay.
 - ==torghost==: git clone it from the github.
+## VPNs
+- virtual private network.
+- well secured.
+- some vpn does not log some data.
+![[Pasted image 20250712153326.png]]
+### Type of VPN
+1. SITE to SITE: to join company network over the internet.
+    - allow multiple location  to communicate and act like local network.
+2. Remote Access VPN: allow client to act as local network of other lan by creating virtual interface.
+3. SSL VPN: done with our web browser. it on when you use like SSL/TLS protocols.
+### types of vpn protocol
+- every vpn use different encryption. but use similar protocols.
+1. openVPN: it is open source.
+2. IPSec/Ikev2: it create secure tunnel.
+    - IKEv2: one of the fastest vpn.
+3. WireGuard: new with good performace. use lower bandwith.
+## OS for privacy
+- Tails OS
+- whonix os
+- Qube Os
+## Use Temporary Mail
+- temp email for not expose your original email.
+- https://temp-mail.org/
+## True anonymity is hard
+- operation security(opsec): is a process that identifies critical information to determine whether friendly actions can be observed by enemy intelligence.
+- there is no solution for 100% anonymity.
