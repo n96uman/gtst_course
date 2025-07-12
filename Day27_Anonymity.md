@@ -60,3 +60,15 @@
 ## True anonymity is hard
 - operation security(opsec): is a process that identifies critical information to determine whether friendly actions can be observed by enemy intelligence.
 - there is no solution for 100% anonymity.
+## mac changer
+- use command like macchanger.
+1. sudo ifconfig wlan0 down
+2. sudo macchanger -r wlan0 (random )
+3. sudo macchanger -m mac_address for (manual change)
+4. machcanger -s Wlan0.
+5. sudo ifconfig wlan0 up
+![[Pasted image 20250712163548.png]]
+## WEb
+-  Deep web: they aren't indexed.
+- serface web:
+- Dark web: illegal trade must use onion browser. it is intentional hide.
